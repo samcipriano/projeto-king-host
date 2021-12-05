@@ -195,7 +195,7 @@ header nav ul li a span {
 }
 .s-hero .image {
   position: relative;
-  top: 4rem;
+  top: 3.7rem;
 }
 @media (max-width: 991px) {
   .s-hero .container {
