@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-    <a href="#" target="_blank">
+    <a href="https://samcipriano.github.io/projeto-king-host/" target="_blank">
     <span>Acessar página DEMO</span>
     </a>
 </p>
@@ -35,7 +35,7 @@ Este projeto foi desenvolvido usando as seguintes tecnologias.
 
 ## 🗂 Como fazer o download do projeto
 
-    - git clone https://github.com/samcipriano/projeto-wireframe-boost.git
+    - git clone https://github.com/samcipriano/projeto-king-host.git
    
 ---
 
